@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div>
-  <h3><b>Mini Netflix Website</b></h3>
+  <h3><b>Reelflix Website</b></h3>
 
 # 📗 Table of Contents
 
@@ -26,9 +26,9 @@
 
   <img src="./src/asset/img/miniNetflix.png" width="auto">
 
-# Mini-Netflix-Website <a name="about-project"></a>
+# REELFLIX MOVIES <a name="about-project"></a>
 
-We built a Mini-Netflix-Website that displays several Tv shows from an external APITV Shows API App.This is a JavaScript-based application that allows users to explore and interact with various TV shows. Users can view details about different TV shows, like the comments and the likes.
+We built a movie-Website that displays several Tv shows from an external APITV Shows API App.This is a JavaScript-based application that allows users to explore and interact with various TV shows. Users can view details about different TV shows, like the comments and the likes.
 
 ## 🛠 Built With <a name="built-with"></a>
 
